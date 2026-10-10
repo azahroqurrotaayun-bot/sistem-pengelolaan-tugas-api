@@ -108,9 +108,9 @@ Database terdiri dari lima tabel:
 
 \- \*\*GitHub Repository:\*\* https://github.com/azahroqurrotaayun-bot/sistem-pengelolaan-tugas-api
 
-\- \*\*Deployment URL:\*\* sistem-pengelolaan-tugas-api.vercel.app
+\- \*\*Deployment URL:\*\* https://sistem-pengelolaan-tugas-api.vercel.app
 
-\- \*\*Dokumentasi API:\*\* sistem-pengelolaan-tugas-api.vercel.app/docs
+\- \*\*Dokumentasi API:\*\* https://sistem-pengelolaan-tugas-api.vercel.app/docs
 
 
 
